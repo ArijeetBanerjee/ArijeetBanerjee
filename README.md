@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @ArijeetBanerjee<br>👀 I’m a Software Engineer<br>🌱 CP Enthusiast(3 star codechef | 100+ on Leetcode | 5 star hackerrank c++)<br>💞️ I’m looking for Internships<br>📫 How to reach me...follow me in linkedin<br>https://www.linkedin.com/in/arijeet-banerjee-57bbb0201/
+ 👋 Hi, I’m @ArijeetBanerjee<br>👀 I’m a Software Engineer<br>🌱 CP Enthusiast(3 star codechef | 200+ on Leetcode | Institute Rank 5@GFG )<br>💞️ I’m looking for Internships<br>📫 How to reach me...follow me in linkedin<br>https://www.linkedin.com/in/arijeet-banerjee-57bbb0201/
 
 
 # 💻 Tech Stack:
